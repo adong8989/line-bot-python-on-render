@@ -1,4 +1,4 @@
 Flask==2.2.5
-line-bot-sdk==2.5.0
+line-bot-sdk==3.17.1
 pillow==10.2.0
 pytesseract==0.3.10
